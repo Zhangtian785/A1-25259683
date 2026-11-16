@@ -51,10 +51,3 @@ java -cp out assignmentone.AssignmentOne
 The clinic runs 08:00–16:00 in 30-minute slots. The schedule is defined once
 as a constant in `AppointmentManager`, so changing it only affects that class.
 
-## Submission checklist
-
-- [ ] Rename the project and this file's references from `username` to your MySCU username; zip as `A1-username.zip`.
-- [ ] GitHub repository link added in the submission comments.
-- [ ] WakaTime report/screenshot attached as `A1-username-WakaTime.png`.
-- [ ] Short video link (four pillars) added in the submission comments.
-- [ ] GenAI declaration added in the submission comments.
